@@ -53,6 +53,6 @@ This project presents the design and verification of a **16-bit multicycle RISC 
 -Leena AbuHammad
 
 ## 🌐 Contact  
-For inquiries, reach out via:  
+**For inquiries, reach out via:**  
 - **Email:** *francismiadi0@gmail.com*  
 - **GitHub:** *FrancisMiadi*  
