@@ -5,7 +5,7 @@ This project presents the design and verification of a **16-bit multicycle RISC 
 
 ## 💡 Supported Instructions
 
-### 🔹 R-Type Instructions  
+###  R-Type Instructions  
 | **Instruction** | **Format** | **Operation** |
 |---------------|------------|-----------------------------|
 | **AND**  | `AND Rd, Rs, Rt` | `Reg(Rd) = Reg(Rs) & Reg(Rt)` |
@@ -16,7 +16,7 @@ This project presents the design and verification of a **16-bit multicycle RISC 
 
 ---
 
-### 🔹 I-Type Instructions  
+###  I-Type Instructions  
 | **Instruction** | **Format** | **Operation** |
 |---------------|------------|-----------------------------|
 | **ANDI**  | `ANDI Rt, Rs, Imm` | `Reg(Rt) = Reg(Rs) & Imm` |
@@ -29,7 +29,7 @@ This project presents the design and verification of a **16-bit multicycle RISC 
 
 ---
 
-### 🔹 J-Type Instructions  
+###  J-Type Instructions  
 | **Instruction** | **Format** | **Operation** |
 |---------------|------------|-----------------------------|
 | **JMP**  | `JMP Offset`  | `Next PC = jump target` |
@@ -49,7 +49,7 @@ This project presents the design and verification of a **16-bit multicycle RISC 
 
 ## 🤝 Project Team
 -**Francis Miadi**  
--Miar Taweel 
+-Miar Taweel   
 -Leena AbuHammad
 
 ## 🌐 Contact  
