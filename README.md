@@ -48,9 +48,9 @@ This project presents the design and verification of a **16-bit multicycle RISC 
 
 
 ## 🤝 Project Team
--**Francis Miadi**  
--Miar Taweel   
--Leena AbuHammad
+- **Francis Miadi**  
+- Miar Taweel   
+- Leena AbuHammad
 
 ## 🌐 Contact  
 **For inquiries, reach out via:**  
